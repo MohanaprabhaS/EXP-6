@@ -1,7 +1,11 @@
 # EXP-6
+
 ## EXP No. :6 			CHARACTERISTICS M OF LVDT
+
 ## Name: Mohanaprabha S
+
 ## Date: 13.11.25
+
 ## Register no: 212224040197
 
 ## AIM:
@@ -33,6 +37,7 @@ I. Connect the multimeter at the output of kit..
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
 ## LVDT:
+
 
 <img width="656" height="929" alt="image" src="https://github.com/user-attachments/assets/fae4183b-ba11-4846-8111-ca8076a368c3" />
 
